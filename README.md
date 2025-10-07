@@ -43,4 +43,4 @@ Adapte o CSV para outros domínios (Saúde, Educação, ESG, TI público).
 Compartilhe issues com novos eixos temáticos, thresholds ou modelos de linguagem.
 
 Citação:
-G.O & Rosa (2025). Framework de Coerência Comunicacional (CC) — Auditoria
+G.O & Rosa (2025)
