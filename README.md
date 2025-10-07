@@ -1,9 +1,9 @@
-Framework de Coerência Comunicacional (CC) — Auditoria & PLN
+Disponibilizamos um pipeline aberto para mensurar Coerência Comunicacional (CC) — alinhamento semântico título↔resumo — em artigos científicos.
 
-Objetivo. Disponibilizar um pipeline aberto para mensurar Coerência Comunicacional (CC) — alinhamento semântico título↔resumo — em artigos científicos.
 O repositório reúne notebooks prontos para uso (plug-and-play) com SBERT e OLS robusto, permitindo replicar, auditar e estender os resultados do artigo.
 
-<p align="center"> <img src="C:\Users\renat\OneDrive\Mestrado em Contabilidade\2025\2025.2k Revista Peru (Auditoria)/framework_cc.png" alt="Framework de Coerência Comunicacional" width="720"> </p>
+<p align="center"> <img src=""C:\Users\renat\OneDrive\Mestrado em Contabilidade\2025\2025.2k Revista Peru (Auditoria)\Framework_CC.jpg" alt="Framework de Coerência Comunicacional" width="720"> </p>
+
 Por que usar?
 
 Métrica replicável de clareza textual (CC) aplicável além da Contabilidade.
