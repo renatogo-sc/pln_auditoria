@@ -1,3 +1,0 @@
-﻿# Ignorar logs e backups
-robocopy_log*.txt
-Metadados_backup/
