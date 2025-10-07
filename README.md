@@ -2,7 +2,14 @@ Disponibilizamos um pipeline aberto para mensurar Coerência Comunicacional (CC)
 
 O repositório reúne notebooks prontos para uso (plug-and-play) com SBERT e OLS robusto, permitindo replicar, auditar e estender os resultados do artigo.
 
-<p align="center"> <img src="C:\Users\renat\OneDrive\Mestrado em Contabilidade\2025\2025.2k Revista Peru (Auditoria)\Framework_CC.jpg" alt="Framework de Coerência Comunicacional" width="720"> </p>
+<p align="center">
+  <img src="Estrutura_CC.jpg" alt="Estrutura de Coerência Comunicacional" width="720">
+</p>
+
+<p align="center">
+  <img src="Pipeline_CC.jpg" alt="Pipeline de Coerência Comunicacional" width="820">
+</p>
+
 
 Por que usar?
 
