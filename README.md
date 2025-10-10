@@ -1,6 +1,6 @@
 Disponibilizamos um pipeline aberto para mensurar Coerência Comunicacional (CC) — alinhamento semântico título↔resumo — em artigos científicos.
 
-O repositório reúne notebooks prontos para uso (plug-and-play) com SBERT e OLS robusto, permitindo replicar, auditar e estender os resultados do artigo.
+O repositório reúne notebooks prontos para uso (plug-and-play) com SBERT e OLS robusto, permitindo replicar, auditar e estender a pesquisa em outras áreas do conhecimento.
 
 Franework de Coerência Comunicacional (CC)
 <p align="center">
